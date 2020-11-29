@@ -1,4 +1,4 @@
-# Guess Word sReactjs
+# Guess Words Reactjs
 
 In Guess Words game there is a secret word, defined in code, that player every time guess a word, game return the number of valid letters in the word.
 Secret word and game is case sensitive.
